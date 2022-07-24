@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889331242884",
+    "project_id": "sicika-31a86",
+    "storage_bucket": "sicika-31a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889331242884:android:88a84029050d004d082fd1",
+        "android_client_info": {
+          "package_name": "com.example.ciptakarya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889331242884-u2804k7h0u6noinjpsbc939ptupdb0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBye7JzYJ75VI-VRsmMTnO0uoyuMZocXBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889331242884-u2804k7h0u6noinjpsbc939ptupdb0fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
